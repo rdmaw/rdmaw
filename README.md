@@ -1,9 +1,9 @@
 ## 👋 Hello, I'm redmaw
 
 <br />
-Bachelor in IT at Kristiania University College.
+Bachelor in Information Technology.
 <br />
-Currently focusing on webdev.
+Currently focusing on full stack webdev.
 
 <h1></h1>
 
