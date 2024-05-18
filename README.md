@@ -1,9 +1,9 @@
-## 👋 hi i'm redmaw!
+## 👋 Hello, I'm redmaw
 
 <br />
 Bachelor in IT at Kristiania University College.
 <br />
-Currently focusing on webdev. <br>
+Currently focusing on webdev.
 
 <h1></h1>
 
@@ -14,7 +14,7 @@ Currently focusing on webdev. <br>
         src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"
         alt="send me an email"
         height="28"
-      /> 
+      />
   </a>
 </kbd>
 <kbd>
@@ -23,7 +23,7 @@ Currently focusing on webdev. <br>
         src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"
         alt="contact me on linkedin"
         height="28"
-      /> 
+      />
   </a>
 </kbd>
 <!-- <kbd>
@@ -32,7 +32,7 @@ Currently focusing on webdev. <br>
         src="https://img.shields.io/badge/Twitter-%23000000.svg?style=flat&logo=X&logoColor=white"
         alt="contact me on twitter"
         height="28"
-      /> 
+      />
   </a>
 </kbd> -->
 <kbd>
@@ -41,7 +41,7 @@ Currently focusing on webdev. <br>
         src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"
         alt="contact me on discord"
         height="28"
-      /> 
+      />
   </a>
 </kbd>
 <br />
