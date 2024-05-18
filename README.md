@@ -11,25 +11,25 @@ Currently focusing on webdev.
 <kbd>
   <a href="mailto:janandreashorgenr@gmail.com">
     <img
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"
         alt="send me an email"
-        height="25"
+        height="28"
       /> 
   </a>
 </kbd>
 <kbd>
   <a href="https://www.linkedin.com/in/janandreasrusnak/">
     <img
-        src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"
         alt="contact me on linkedin"
-        height="25"
+        height="28"
       /> 
   </a>
 </kbd>
 <!-- <kbd>
   <a href="https://twitter.com/redmawzx">
     <img
-        src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"
+        src="https://img.shields.io/badge/Twitter-%23000000.svg?style=plastic&logo=X&logoColor=white"
         alt="contact me on twitter"
         height="25"
       /> 
@@ -38,9 +38,9 @@ Currently focusing on webdev.
 <kbd>
   <a href="https://discord.com/users/189753449670246401">
     <img
-        src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+        src="https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white"
         alt="contact me on discord"
-        height="25"
+        height="28"
       /> 
   </a>
 </kbd>
