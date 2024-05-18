@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+Currently focusing on webdev.
+ - Learning neovim
 
 <!--
 **redmawzx/redmawzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Stats
+![stats](https://github-readme-stats.vercel.app/api?username=redmawzx&show_icons=true&include_all_commits=true&theme=city_lights)
