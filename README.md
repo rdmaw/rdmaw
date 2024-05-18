@@ -1,13 +1,13 @@
-## hi i'm redmaw!
-<br />
+## 👋 hi i'm redmaw!
 
-Finished bachelor in IT at Kristiania University College.
 <br />
-Currently focusing on webdev.
+Bachelor in IT at Kristiania University College.
+<br />
+Currently focusing on webdev. <br>
 
 <h1></h1>
 
-<!-- End Section -->
+<!-- Contact -->
 <kbd>
   <a href="mailto:janandreashorgenr@gmail.com">
     <img
@@ -31,7 +31,7 @@ Currently focusing on webdev.
     <img
         src="https://img.shields.io/badge/Twitter-%23000000.svg?style=flat&logo=X&logoColor=white"
         alt="contact me on twitter"
-        height="25"
+        height="28"
       /> 
   </a>
 </kbd> -->
@@ -45,7 +45,7 @@ Currently focusing on webdev.
   </a>
 </kbd>
 <br />
-<sub><em>you can contact me using any of the links above</em></sub>
+<sub>you can contact me using any of the links above</sub>
 
 <!-- Do people visit my profile? -->
 [linkedin]: https://www.linkedin.com/in/janandreasrusnak/
