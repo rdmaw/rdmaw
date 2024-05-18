@@ -7,35 +7,32 @@ currently focusing on webdev
 
 <!-- Contact Section -->
 ### contact me
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/janandreasrusnak/#gh-light-mode-only)
+<!-- [![website](https://skillicons.dev/icons?i=linkedin&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/janandreasrusnak/)
+[![website](https://skillicons.dev/icons?i=linkedin&theme=light#gh-light-mode-only)](https://www.linkedin.com/in/janandreasrusnak/)
+&nbsp;&nbsp; -->
 
-<p align="left">
-  <a href="">
-    <kbd>
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark#gh-dark-mode-only"/>
-      <img src="https://skillicons.dev/icons?i=gmail&theme=light#gh-light-mode-only"/>
-    </kbd>
-  </a>
-</p>
 
-[linkedin]: https://www.linkedin.com/in/janandreasrusnak/
-[discord]: https://discord.com/users/189753449670246401
+
 
 <h1></h1>
 <!-- End Section -->
 <kbd>
-  <img
-        src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge"
-        alt="Support me on Ko-fi"
-        height="30"
+  <a href="https://www.linkedin.com/in/janandreasrusnak/">
+    <img
+        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"
+        alt="My LinkedIn Profile"
+        height="25"
       /> 
+  </a>
 </kbd>
 <kbd>
   <img
-        src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge"
+        src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=plastic"
         alt="Support me on Ko-fi"
-        height="30"
+        height="25"
       /> 
 </kbd>
 
 <!-- Do people visit my profile? -->
+[linkedin]: https://www.linkedin.com/in/janandreasrusnak/
+[discord]: https://discord.com/users/189753449670246401
