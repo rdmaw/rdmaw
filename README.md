@@ -3,7 +3,7 @@
 <br />
 Bachelor in Information Technology.
 <br />
-Currently focusing on full stack webdev.
+Currently focusing on webdev.
 
 <h1></h1>
 
