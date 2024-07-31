@@ -45,7 +45,7 @@ Currently focusing on webdev.
   </a>
 </kbd>
 <br />
-<sub>you can contact me using any of the links above</sub>
+<sub>contact me using any of the links above</sub>
 
 <!-- Do people visit my profile? -->
 [linkedin]: https://www.linkedin.com/in/janandreasrusnak/
