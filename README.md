@@ -3,8 +3,7 @@
 [gmail]: mailto:janandreashorgenr@gmail.com
 [twitter]: https://twitter.com/redmawzx
 [discord]: https://discord.com/users/189753449670246401
-
-## &nbsp;&nbsp;&nbsp;&nbsp;Hi 👋, I'm redmaw
+## &nbsp;Contact
 <p align="left">
   <img alt="Most used languages" src=https://github-readme-stats.vercel.app/api/top-langs/?username=redmawzx&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact />
 </p>
