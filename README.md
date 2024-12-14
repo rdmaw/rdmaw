@@ -16,9 +16,9 @@
 &nbsp;
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/janandreasrusnak/" target="blank"><img align="center" src="assets/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:janandreashorgenr@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" alt="gmail"  height="35" width="40" /></a>
-  <a href="https://discord.com/users/189753449670246401" target="blank"><img align="center" src="assets/discord.svg" alt="discord" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/janandreasrusnak/" target="_blank"><img align="center" src="assets/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:janandreashorgenr@gmail.com" target="_blank"><img align="center" src="assets/gmail.svg" alt="gmail"  height="35" width="40" /></a>
+  <a href="https://discord.com/users/189753449670246401" target="_blank"><img align="center" src="assets/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 <p align="left">
