@@ -5,7 +5,7 @@
 [discord]: https://discord.com/users/189753449670246401
 
 <p align="left">
-  <img alt="Most used languages" src=https://github-readme-stats.vercel.app/api/top-langs/?username=redmawzx&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redmawzx&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&timestamp={{timestamp}}" />
 </p>
 
 <p>
