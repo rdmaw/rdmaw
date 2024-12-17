@@ -5,9 +5,10 @@
 [discord]: https://discord.com/users/189753449670246401
 
 <!-- Top Languages Card -->
-<p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redmawzx&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&timestamp={{timestamp}}" />
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/rdmaw?tab=repositories">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html&&langs_count=6" />
+</a>
 
 <!-- Main text -->
 <p>
