@@ -7,7 +7,7 @@
 <!-- Top Languages Card -->
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/rdmaw?tab=repositories">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html&&langs_count=6" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&theme=transparent&bg_color=1A2A38&title_color=89b4fa&text_color=F2F1EB&hide_border=false&border_size=10&border_radius=15&border_color=89b4fa&card_width=320&include_all_commits=true&count_private=true&layout=compact&hide=html&&langs_count=6" />
 </a>
 
 <!-- Main text -->
