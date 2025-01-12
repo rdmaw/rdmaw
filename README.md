@@ -1,6 +1,6 @@
 <!-- Top Languages Card -->
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&theme=transparent&bg_color=212830&title_color=89b4fa&text_color=f0f6fc&hide_border=false&border_size=10&border_radius=15&border_color=89b4fa&include_all_commits=true&card_width=320&count_private=true&layout=compact&hide=html&&langs_count=6)](https://github.com/rdmaw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&theme=transparent&bg_color=212830&title_color=89b4fa&text_color=f0f6fc&hide_border=false&border_size=10&border_radius=15&border_color=89b4fa&include_all_commits=true&card_width=320&count_private=true&layout=compact&hide=html&&langs_count=7)](https://github.com/rdmaw)
 
 <!-- Main text -->
 <p>
