@@ -1,15 +1,14 @@
 <!-- Top Languages Card -->
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&theme=transparent&bg_color=212830&title_color=89b4fa&text_color=f0f6fc&hide_border=false&border_size=10&border_radius=15&border_color=89b4fa&include_all_commits=true&card_width=320&count_private=true&layout=compact&hide=html&&langs_count=6)](https://github.com/rdmaw?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&size_weight=0.5&count_weight=0.5&hide=html&langs_count=5&theme=ayu-mirage)](https://github.com/rdmaw?tab=repositories#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&size_weight=0.5&count_weight=0.5&hide=html,java&langs_count=4&theme=github_dark_dimmed)](https://github.com/rdmaw?tab=repositories#gh-dark-mode-only)
 
-<!-- Main text -->
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Sc. in IT - Frontend & Mobile Development.
   <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focused on full-stack dev.
 </p>
 
-<!-- Contact section -->
 ### &nbsp;&nbsp;&nbsp;&nbsp;Contact:
 <p align="left">
   &nbsp;&nbsp;&nbsp;
