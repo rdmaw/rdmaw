@@ -1,6 +1,6 @@
 <!-- Top Languages Card -->
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&size_weight=0.5&count_weight=0.5&hide=html&langs_count=5&theme=ayu-mirage)](https://github.com/rdmaw?tab=repositories#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&size_weight=0.5&count_weight=0.5&hide=html,java&langs_count=3&theme=swift)](https://github.com/rdmaw?tab=repositories#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdmaw&size_weight=0.5&count_weight=0.5&hide=html,java&langs_count=4&theme=github_dark_dimmed)](https://github.com/rdmaw?tab=repositories#gh-dark-mode-only)
 
 <p>
