@@ -8,9 +8,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focused on full-stack dev.
 </p>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;Contact:
-<p align="left">
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Contact me](https://contact.redmaw.dev) -->
+<!-- <p align="left">
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/janandreasrusnak/" target="_blank"><img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="30" width="35" /></a>&nbsp;     
   <a href="https://discord.com/users/189753449670246401" target="_blank"><img align="center" src="assets/discord.svg" alt="Discord" height="36" width="40" /></a>
-</p>
+</p> -->
